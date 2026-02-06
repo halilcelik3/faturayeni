@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pdfplumber
+pytesseract
+pdf2image
+pymupdf
